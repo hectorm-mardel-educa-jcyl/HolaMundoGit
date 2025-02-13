@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("Hola Mundo.");
 		adios();
 		System.out.println("1 cambio - Eclipse");
-
+		System.out.println("2 cambio - Consola");
 	}
 
 	public static void adios() {
